@@ -1,19 +1,39 @@
+//════════════════════════════//
+//If you want to recode, reupload
+//or copy the codes/script,
+//pls give credit
+//no credit? i will take action immediately
+//© 2022 Xeon Bot Inc. Cheems Bot MD
+//Thank you to Lord Buddha, Family and Myself
+//════════════════════════════//
+//recode kar ke youtube pe upload kar rhe hai ya
+//codes copy kar ke apne script me dal rhe
+//hai to, description me xeon ka yt channel
+// ka link paste kr dena as a cradit or github 
+//repo me bhi tag kardena baki jo
+//bhi karna hai apki marzi, thank you!🦄
+//════════════════════════════//
+//If you recode and uploading on your channel
+//or copy pasting the codes in ur script, 
+//i give permission to do as long as you
+//put Xeons youtube channel link in the video
+//description and tag me on githuh repo, 
+//thank you🦄
+//════════════════════════════//
+
 const fs = require('fs')
 const chalk = require('chalk')
 
-//Api Website\\ 
+//Api Website\\
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': '5b6a9902b1',
+	'https://zenzapis.xyz': 'your key',
 }
 
-
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -35,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
+global.ownername = "nipuna rangana" //ur owner name
+global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
-global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
-global.reactmoji = "❤" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.owner = ['94714188730']
+global.ownertag = '94714188730' //ur tag number
+global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
+global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.reactmoji = "😘" //ur menu react emoji
+global.themeemoji = "🦄" //ur theme emoji
+global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
+global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['94714188730'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -83,17 +103,17 @@ global.ntilink = []
 global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⚜'
+global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin!',
+    botAdmin: 'Bot Must Be Admin First!',
+    owner: 'This Feature Is Only For Owner!',
+    group: 'Feature Used Only For Groups!',
+    private: 'Features Used Only For Private Chat!',
+    bot: 'This Feature Is Only For Bot',
+    wait: 'In process...',
+    linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
