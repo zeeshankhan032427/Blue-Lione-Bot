@@ -1,4 +1,4 @@
-<h1 align="center"> ⚜ 𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮 ⚜<br></h1>
+<h1 align="center"> 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/x1SLFB2/Pics-Art-09-09-06-29-33.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
 
@@ -57,7 +57,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
-cd NeroBot-MD
+cd Blue-Lione-Bot
 npm start
 ```
 ## `For VPS`
@@ -69,7 +69,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
-cd DarkNero-MD2
+cd Blue-Lione-Bot
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
