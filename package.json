@@ -1,5 +1,5 @@
 {
-  "name": "NeroBot-MD",
+  "name": "CheemsBot-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -15,12 +15,12 @@
     "baileys-md",
     "bot",
     "bot-md",
-    "multi-device" 
+    "multi-device"
   ],
   "author": "Xeon",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@shineiichijo/marika": "^2.0.2",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaveeshasithum/DARK-NERO-BOT.git"
+    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
   },
   "bugs": {
     "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
   },
-  "homepage": "https://github.com/Kaveeshasithum/DARK-NERO-BOT#readme"
+  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
 }
