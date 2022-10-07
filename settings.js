@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94706540311'] //ur owner number
+global.vcardowner = ['94714188730'] //ur owner number
 global.ownername = "nipuna rangana" //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94706540311']
-global.ownertag = '94706540311' //ur tag number
+global.owner = ['94714188730']
+global.ownertag = '94714188730' //ur tag number
 global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
@@ -71,6 +71,10 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
 global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.menumoji ="💖"
+global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
+global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
+global.alivemg="Hi i am 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 bot.create by nipuna rangana." //ur alive masage
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
