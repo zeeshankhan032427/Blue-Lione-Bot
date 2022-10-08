@@ -28,7 +28,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Only](https://i.ibb.co/FJcrYJw/Screenshot-2022-10-08-192010.jpg)](https://heroku.com/deploy) 
+[![Only](https://i.ibb.co/FJcrYJw/Screenshot-2022-10-08-192010.jpg)](https://heroku.com/deploy)
+බොට් හදන කෝට මතක ඇතුව united state වේනුවට Eroupe දෙන්න.
 
  
  
